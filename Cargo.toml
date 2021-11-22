@@ -9,6 +9,7 @@ edition = "2021"
 terminal = "0.2.1"
 array2d = "0.2.1"
 rand = "0.8.4"
+eframe = "0.15.0"
 
 [features]
 default = ["terminal/crossterm-backend"]
